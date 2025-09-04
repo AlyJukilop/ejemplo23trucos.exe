@@ -1,0 +1,1 @@
+# ejemplo23trucos.exe
